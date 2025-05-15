@@ -19,6 +19,28 @@
   <p>Neste modelo a empresa usara tanto poder computacional local quanto em nuvem.</p>
 </details>
 
+<h3>Modelos de serviço em nuvem</h3>
+
+<details>
+  <summary>Iaas</summary>
+  <p>Infrastructure as a Service, oferece infraestrutura como serviço, fornecendo recursos como servidores virtuais, armazenamento, redes e outros serviços</p>
+</details>
+
+<details>
+  <summary>Paas</summary>
+  <p>Platform as a Service, Oferece uma plataforma de desenvolvimento completa na nuvem, como exemplo a Azure.</p>
+</details>
+
+<details>
+  <summary>Saas</summary>
+  <p>Software as a service, Entrega aplicações completas pela nuvem sendo acessado pela internet sem nescessidade de instalar.</p>
+</details>
+
+
+
+
+
+
 
 
 
