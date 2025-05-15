@@ -41,6 +41,15 @@
   <p>Backend as a service, oferece um sistema back-end pronto pra usar em aplicações web ou mobile, um bom exemplo seria o google firebase.</p>
 </details>
 
+<details>
+  <summary>Faas</summary>
+  <p>Function as a service. é uma forma de computação em nuvem onde você executa funções de código sem precisar de servidor, tambem conhecido como serverless.</p>
+</details>
+
+<details>
+  <summary>DBaas</summary>
+  <p>Database as a service. oferece um banco de dados como serviço.</p>
+</details>
 
 
 
