@@ -36,6 +36,10 @@
   <p>Software as a service, Entrega aplicações completas pela nuvem sendo acessado pela internet sem nescessidade de instalar.</p>
 </details>
 
+<details>
+  <summary>Baas</summary>
+  <p>Backend as a service, oferece um sistema back-end pronto pra usar em aplicações web ou mobile, um bom exemplo seria o google firebase.</p>
+</details>
 
 
 
